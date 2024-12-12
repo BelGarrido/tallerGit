@@ -1,0 +1,8 @@
+Feedback Taller Git
+
+El taller me ha parecido util (sobretodo porque ha sido práctico), es verdad que hasta ahora no habia utilizado git junto con un compañero, y ha sido interesante poder ver todo el tema de conflictos. Me ha gustado tambien que hubiera diferentes ejercicios dependiendo del nivel. 
+
+Por otro lado es cierto que git y github es suuuuper amplio y un poco abstracto, y mucha info se hace confusa, sería ideal que hubieran más talleres como este donde fueramos aprendiendo progresivamente.
+
+Conclusión:
+Super contenta y agradecida con el taller! <3 Ojala más
